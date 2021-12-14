@@ -4,10 +4,7 @@ import util.ShowInFrame;
 
 public class RemoveAnimation extends AnimationPanel {
 
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
+
 
 	public void doChecks() {
 		List<GameObject> toRemove = new LinkedList<GameObject>();
